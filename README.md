@@ -21,7 +21,7 @@ The dashboard enables stakeholders to monitor trends, evaluate risk, and make da
 
 ## Data Summary
 
-### 💰 Credit Card Transaction Report
+### Credit Card Transaction Report
 - **Total Revenue:** ₹57M  
 - **Total Interest Earned:** ₹8M  
 - **Total Transaction Amount:** ₹46M  
@@ -37,7 +37,7 @@ The dashboard enables stakeholders to monitor trends, evaluate risk, and make da
 
 ## Dashboard Preview
 
-![Credit Card Dashboard](dashboard.png)
+![Credit Card Dashboard](https://github.com/prachisaladiya/Credit_Card_Weekly_Analytics_Dashboard/blob/main/Insights.png)
 
 ### 1️⃣ Weekly Revenue Trend (WoW Analysis)
 - Revenue shows **significant week-over-week fluctuations**, emphasizing the importance of weekly monitoring.
