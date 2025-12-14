@@ -37,7 +37,7 @@ The dashboard enables stakeholders to monitor trends, evaluate risk, and make da
 ## Weekly Credit Card Customer Insights Dashboard
 ![Credit Card Dashboard](https://github.com/prachisaladiya/Credit_Card_Weekly_Analytics_Dashboard/blob/main/Credit%20Card%20Customer%20Report.png)
 
-## Insight Dashboard
+## Insights Dashboard
 ![Credit Card Dashboard](https://github.com/prachisaladiya/Credit_Card_Weekly_Analytics_Dashboard/blob/main/Insights.png)
 
 ## Key Insights
