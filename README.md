@@ -33,10 +33,10 @@ The dashboard enables stakeholders to monitor trends, evaluate risk, and make da
 
 ---
 
-## Key Insights
+## Dashboard Preview
 
 ## Weekly Credit Card Performance Dashboard (Power BI)
-![Credit Card Dashboard](https://github.com/prachisaladiya/Credit_Card_Weekly_Analytics_Dashboard/blob/main/Insights.png)
+![Credit Card Dashboard](https://github.com/prachisaladiya/Credit_Card_Weekly_Analytics_Dashboard/blob/main/Credit%20Card%20Transaction.png)
 
 ## Weekly Credit Card Customer Insights Dashboard
 ![Credit Card Dashboard](https://github.com/prachisaladiya/Credit_Card_Weekly_Analytics_Dashboard/blob/main/Insights.png)
