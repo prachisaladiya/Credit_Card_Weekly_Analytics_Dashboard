@@ -1,7 +1,3 @@
-# Credit_Card_Weekly_Analytics_Dashboard
-Power BI dashboard analyzing weekly credit card revenue, transactions, utilization, and customer behavior.
-
-
 # Credit Card Weekly Financial & Customer Performance Dashboard
 
 ## Project Objective
@@ -39,11 +35,12 @@ The dashboard enables stakeholders to monitor trends, evaluate risk, and make da
 ![Credit Card Dashboard](https://github.com/prachisaladiya/Credit_Card_Weekly_Analytics_Dashboard/blob/main/Credit%20Card%20Transaction.png)
 
 ## Weekly Credit Card Customer Insights Dashboard
-![Credit Card Dashboard](https://github.com/prachisaladiya/Credit_Card_Weekly_Analytics_Dashboard/blob/main/Insights.png)
+![Credit Card Dashboard](https://github.com/prachisaladiya/Credit_Card_Weekly_Analytics_Dashboard/blob/main/Credit%20Card%20Customer%20Report.png)
 
 ## Insight Dashboard
 ![Credit Card Dashboard](https://github.com/prachisaladiya/Credit_Card_Weekly_Analytics_Dashboard/blob/main/Insights.png)
 
+## Key Insights
 ### 1️⃣ Weekly Revenue Trend (WoW Analysis)
 - Revenue shows **significant week-over-week fluctuations**, emphasizing the importance of weekly monitoring.
 - **Week 53 recorded the highest revenue**, with a **28.8% WoW increase**, driven by higher transaction activity.
@@ -75,11 +72,15 @@ Onboarding strategies are effective overall, but high-income customers may need 
 ---
 
 ### 4️⃣ Personal Loan vs Delinquency Behavior
-- **87.27% of customers do not hold personal loans**.
-- Customers with personal loans show a **higher likelihood of delinquency**, though overall impact is limited due to low delinquent share.
+- **6.06% of total accounts are delinquent**.
+- Among delinquent customers:
+  - **Only 0.83% hold a personal loan**
+  - **5.24% do not have a personal loan**
+- Overall, **87.27% of customers do not hold personal loans**.
 
 **Insight:**  
-Personal loan cross-selling should be accompanied by enhanced credit risk monitoring.
+Delinquency is predominantly observed among customers **without personal loans**.  
+The data does **not indicate a strong association** between personal loan ownership and higher delinquency in this dataset.
 
 ---
 
@@ -93,7 +94,7 @@ Mass-market cards drive revenue volume, while premium cards drive customer exper
 
 ---
 
-## 📊 Key KPIs Tracked
+## Key KPIs Tracked
 - Total Revenue  
 - Interest Earned  
 - Transaction Amount & Volume  
@@ -116,7 +117,3 @@ Mass-market cards drive revenue volume, while premium cards drive customer exper
 ## Conclusion
 This project demonstrates an **end-to-end data analytics workflow**, from data ingestion in MySQL to advanced DAX-driven insights in Power BI.  
 It reflects **real-world banking analytics use cases** and showcases practical skills required for **Data Analyst and Business Analyst roles**.
-
-Objective
-
-Tools
